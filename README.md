@@ -1,29 +1,19 @@
-#  缘起
+##  Intro
 
-* 自己的学习
+我是转行做的码农，创建本项目希望达到下述目的：
 
-我是通过自学成为码农一员的。从入行
+1. 整合自己收集的资源，并给给处于类似位置的人有所帮助。
+2. 现有的资源收集的项目，都趋于大而全，有些让人不知所措。
 
-2. 资源爆炸
+本项目资源收集与分类标准：
 
+1. 收集资源有两个原则。首先，数量上求精不求多，力求小而精；其次，需自己读过，是我认为最好的资源。
+2. 借用豆瓣的评星机制，推荐分两个级别，5星与4星：5星为强烈推荐；4星为推荐。虽然都是好资源，总要分个伯仲，所以有4星与5星之别。信息膨胀，垃圾信息更是爆炸式膨胀，3星及以下的，就不要浪费时间了。
+3. 难度等级分为入门与进阶两种。如果同时包含入门与进阶内容，就标记为综合。
 
-3. 现有资源的不足
+欢迎Issue或PR，把你心目中最好的资源加入进来。
 
-
-4. 大神请指教
-
-
-
-# 打好基础
-
-
-
-
-# 选择方向
-
-
-
-## 后端
+## Language and Framework
 
 ### Java
 
@@ -43,6 +33,8 @@
 
 [concurrency in c# cookbook 2nd](./resources/Concurrency%20in%20C#%20Cookbook(2ndEd).pdf)  C#中如何搞并发，看这本就可以了，与`Java并发编程实战`对应。
 
+## Database
+
 ### Mysql
 
 [MySQL必知必会](https://item.jd.com/12818982.html)  SQL入门就看它
@@ -53,8 +45,31 @@
 
 * [码哥字节Redis专题](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzkzMDI1NjcyOQ==&scene=24&album_id=1918295695426404359&count=3#wechat_redirect)
 
-
-### 分布式
-
-
 * [美团二面：Redis与MySQL双写一致性如何保证？](https://mp.weixin.qq.com/s/i1ahT8RVHSVJli7pdWBoJw)
+
+## Software Engineer
+
+git
+
+Agile
+
+vscode
+
+docker
+
+Intellij IDEA
+
+
+## Algorithm
+
+
+
+## Architecture and Pattern
+
+
+## Math
+
+
+## Other
+
+* [Jeremy Howard的fast.ai](https://www.fast.ai/) 深度学习最好实战资源，非常棒！级别：**综合**，推荐等级：**5星**。
