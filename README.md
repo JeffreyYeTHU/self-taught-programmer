@@ -77,3 +77,10 @@ Intellij IDEA
 ## Other
 
 * [Jeremy Howard的fast.ai](https://www.fast.ai/) 深度学习最好实战资源，非常棒！级别：**综合**，推荐等级：**5星**。
+
+
+## Azure
+
+### Application Insights
+
+[Application Insights Tutorial](https://www.youtube.com/watch?v=A0jAeGf2zUQ)
